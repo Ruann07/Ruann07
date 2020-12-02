@@ -1,11 +1,10 @@
-## 📌 Laks Castro  
-> 💡 Web Developer  
-> ⭐ Beginner Mobile Developer  
-> 🕹 Future Game Developer  
+## 📌 Ruann Lima
+> 💡 Developer  
+> ⭐ Mobile Developer  
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=Ruann07&theme=dark&show_icons=true" />
 
 ### ✨ Contact
-- Discord `Laks#6909`
+- Discord `RUann0716#2471`
 
 ### ⚡ Useless data
 ```dart
@@ -17,7 +16,7 @@
 ```
 
 ### 💎 About
-Hello! Welcome to this profile. My way of development is very simple: I like to work on small personal projects for fun (like the ones that are pinned) but I work mostly on freelance projects at [Workana](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown) and [99Freelas](https://www.99freelas.com.br/user/Laks-Castro)
+Hello! Welcome to this profile. My way of development is very simple: I like to work on small personal projects for fun (like the ones that are pinned) but I work mostly on private companies and freelance projects at [Workana](https://www.workana.com/freelancer/3d403bc5fa4cf792871303ad7d01b47d?ref=user_dropdown).
 
 ### 💻 Programming
 ```
