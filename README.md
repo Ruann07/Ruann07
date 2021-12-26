@@ -2,6 +2,7 @@
 > 💡 Developer  
 > ⭐ Full-Stack Developer  
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=Ruann07&theme=dark&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruann07&layout=compact&langs_count=7&theme=dracula"/>
 
 ### ✨ Contact
 - Discord `RUann0716#2471`
@@ -13,8 +14,6 @@
 3. [ ] Day      [ ] Night  [x] Afternoon          
 4. [ ] Macbook  [ ] PC     [x] Notebook             
 ```
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruann07&layout=compact&langs_count=7&theme=dracula)
-
 ### 💎 About
 Hello! Welcome to this profile. My way of development is very simple: I work with systems Web, Mobile and Desktop, I like to work with a team.
 
