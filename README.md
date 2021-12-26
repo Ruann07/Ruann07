@@ -20,11 +20,11 @@ Hello! Welcome to this profile. My way of development is very simple: I work wit
 ### 💻 Programming
 ```
 - I can build some cool stuff with...
-1. Python
-2. Java
-3. Dart
-4. HTML
-5. CSS
+1. Java
+2. Dart
+3. C#
+4. Python
+5. TyperScript
 ```
 ```
 - I only know 'Hello World'...
