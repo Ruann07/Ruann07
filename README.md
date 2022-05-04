@@ -1,7 +1,7 @@
 ## 📌 Ruann Lima
 > 💡 Developer  
 > ⭐ Full-Stack Developer  
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=Ruann07&theme=dark&show_icons=true" />
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=Ruann07&theme=dark&show_icons=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruann07&hide_border=true&layout=compact&langs_count=7&theme=dark"/>
 
 ### ✨ Contact
